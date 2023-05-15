@@ -1,4 +1,4 @@
-# Computer-Vision-project-AR-and-prespective-wrapping
+# Computer Vision project: AR and prespective wrapping
 Project in computer vision course.
 
 "perspective_wrapping.py" is the code that wraps the py_in_forest image on the book captured on the input video - outputs output_video_part1 as the result.
